@@ -1,0 +1,50 @@
+body {
+  background-color: #1e293b;
+  color: white;
+  text-align: center;
+}
+
+header {
+  padding: 20px;
+}
+
+nav {
+  background-color: #0ea5e9;
+  padding: 10px;
+}
+
+main {
+  padding: 20px;
+  color: black;
+  background-color: white;
+}
+
+h3 {
+  color: #0ea5e9;
+  font-size: 30px;
+}
+
+p {
+  font-size: 20px;
+}
+
+img {
+  width: 350px;
+  border-radius: 8px;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 8px 12px;
+  border-radius: 5px;
+}
+
+#footer {
+  background-color: #0ea5e9;
+  color: black;
+  text-align: center;
+  padding: 10px;
+}
